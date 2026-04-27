@@ -30,8 +30,6 @@
     <string name="e_wallet_ovo_dana">E-Wallet (OVO/Dana)</string>
     <string name="cod_bayar_di_tempat">COD (Bayar di Tempat)</string>
     <string name="bayar_sekarang1">BAYAR SEKARANG</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="setting">Setting</string>
     <string name="tambah">tambah</string>
     <string name="kurangi">kurangi</string>
